@@ -1,0 +1,18 @@
+.Header {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  background-color: var(--color-primary-dark);
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  background-image: url(../../assets/logo.png);
+  background-size: cover;
+  height: 3rem;
+  width: 3rem;
+}
